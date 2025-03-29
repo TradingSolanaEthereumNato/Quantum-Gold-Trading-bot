@@ -68,7 +68,7 @@ The Quantum Gold Trader is a sophisticated trading system that:
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/yourrepo/quantum-gold-trader.git
+   git clone https://github.com/TradingSolanaEthereumNato/Quantum-Gold-Trading-bot
    cd quantum-gold-trader
    ```
 2. **Run requirements.txt**
